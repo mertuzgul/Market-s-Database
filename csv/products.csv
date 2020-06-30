@@ -1,0 +1,201 @@
+product_id,product_name,category,price
+1,muz,meyve,16
+2,cilek,meyve,15
+3,kivi,meyve,12
+4,ananas,meyve,15
+5,yeni dunya,meyve,10
+6,kayisi,meyve,5
+7,seftali,meyve,5
+8,elma,meyve,4
+9,erik,meyve,15
+10,portakal,meyve,6
+11,mandalina,meyve,4
+12,nar,meyve,10
+13,yaban mersini,meyve,20
+14,mango,meyve,15
+15,hindistan cevizi,meyve,25
+16,ayva,meyve,7
+17,armut,meyve,7
+18,karpuz,meyve,10
+19,kavun,meyve,10
+20,kiraz,meyve,20
+21,cagla,meyve,4
+22,murdum erigi,meyve,7
+23,sari uzum,meyve,6
+24,kara uzum,meyve,6
+25,findik,kuruyemis,50
+26,fistik,kuruyemis,20
+27,kavrulmus badem,kuruyemis,70
+28,kaju,kuruyemis,100
+29,antep fistigi,kuruyemis,80
+30,tuzsuz cekirdek,kuruyemis,5
+31,leblebi,kuruyemis,10
+32,kabak cekirdegi,kuruyemis,15
+33,ceviz,kuruyemis,50
+34,cig badem,kuruyemis,70
+35,tuzlu cekirdek,kuruyemis,5
+36,viski,alkol,230
+37,vodka,alkol,210
+38,bira,alkol,20
+39,cin,alkol,180
+40,likor,alkol,175
+41,sarap,alkol,60
+42,tekila,alkol,180
+43,rom,alkol,200
+44,raki,alkol,130
+45,kola,gazli icecek,5
+46,fanta,gazli icecek,5
+47,sprite,gazli icecek,5
+48,mountain dew,gazli icecek,6
+49,sevenup,gazli icecek,6
+50,schweppes,gazli icecek,6
+51,tonik,gazli icecek,6
+52,soda,gazli icecek,1
+53,fuse tea,gazsiz icecek,5
+54,ice tea,gazsiz icecek,5
+55,limonata,gazsiz icecek,5
+56,elma suyu,gazsiz icecek,6
+57,portakal suyu,gazsiz icecek,6
+58,ananas suyu,gazsiz icecek,5
+59,nar suyu,gazsiz icecek,7
+60,karisik meyve suyu,gazsiz icecek,6
+61,sut,sut urunleri,6
+62,beyaz peynir,sut urunleri,20
+63,kasar peyiniri,sut urunleri,30
+64,ezine peyniri,sut urunleri,45
+65,eski kasar,sut urunleri,30
+66,orgu peynir,sut urunleri,20
+67,cecil peyniri,sut urunleri,20
+68,hellim peyniri,sut urunleri,20
+69,gouda peyniri,sut urunleri,30
+70,cheddar peyniri,sut urunleri,20
+71,labne peyniri,sut urunleri,15
+72,ayran,sut urunleri,6
+73,kefir,sut urunleri,5
+74,salam,sarkuteri,80
+75,sosis,sarkuteri,80
+76,sucuk,sarkuteri,80
+77,pastirma,sarkuteri,130
+78,kuru et,sarkuteri,130
+79,dere otu,yesillik,1
+80,maydonoz,yesillik,1
+81,tere ,yesillik,1
+82,roka,yesillik,1
+83,marul,yesillik,3
+84,kivircik,yesillik,5
+85,nane,yesillik,5
+86,kirmizi biber,baharat,20
+87,pul biber,baharat,20
+88,toz biber,baharat,15
+89,isot,baharat,15
+90,sumak,baharat,5
+91,karanfil,baharat,10
+92,kimyon,baharat,10
+93,zerdecal,baharat,10
+94,zencefil,baharat,10
+95,beyaz biber,baharat,10
+96,kara biber,baharat,10
+97,kekik,baharat,5
+98,kimyon,baharat,5
+99,muskat,baharat,10
+100,salatalik,sebze,4
+101,lahana,sebze,8
+102,ispanak,sebze,4
+103,karnabahar,sebze,3
+104,pirasa,sebze,3
+105,fasulye,sebze,8
+106,patlican,sebze,5
+107,kabak,sebze,3
+108,yesil biber,sebze,6
+109,kapya biber,sebze,6
+110,turp,sebze,3
+111,domates,sebze,5
+112,havuc,sebze,5
+113,bezelye,sebze,6
+114,bamya,sebze,25
+115,cicek bamya,sebze,200
+116,bakla,sebze,6
+117,mor lahana,sebze,6
+118,pancar,sebze,5
+119,sarimsak,sebze,80
+120,sogan,sebze,2
+121,patates,sebze,3
+122,salgam,sebze,4
+123,lays,cips,6
+124,ruffles,cips,6
+125,doritos,cips,6
+126,cerezos,cips,4
+127,pringles,cips,13
+128,patos,cips,5
+129,cheetos,cips,2
+130,damak,cikolata,7
+131,albeni,cikolata,2
+132,dido,cikolata,2
+133,toblerone,cikolata,10
+134,milka,cikolata,8
+135,cavdar ekmegi,ekmek,5
+136,tahilli ekmek,ekmek,5
+137,kepekli ekmek,ekmek,5
+138,ciya tohumlu ekmek,ekmek,8
+139,kelebek,makarna,3
+140,fiyonk,makarna,3
+141,boncuk,makarna,3
+142,manti,makarna,3
+143,yuksuk,makarna,3
+144,lazanya,makarna,20
+145,spaghetti,makarna,3
+146,baldo,pirinc,20
+147,osmancik,pirinc,20
+148,domates salcasi,salca,20
+149,biber salcasi,salca,20
+150,turk kahvesi,kahve,5
+151,nescafe,kahve,20
+152,jacobs,kahve,15
+153,kapsul kahve,kahve,20
+154,kuzu sis,et urunleri,90
+155,kuzu pirzola,et urunleri,110
+156,dana kiyma,et urunleri,60
+157,kofte,et urunleri,60
+158,kusbasi,et urunleri,70
+159,dana pirzola,et urunleri,100
+160,rozbif,et urunleri,80
+161,dana dos,et urunleri,60
+162,kemikli pirzola,tavuk urunleri,25
+163,kemiksiz pirzola,tavuk urunleri,20
+164,kanat,tavuk urunleri,25
+165,but,tavuk urunleri,20
+166,gogus,tavuk urunleri,25
+167,yumurta,tavuk urunleri,20
+168,baget,tavuk urunleri,20
+169,yumusatici,temizlik urunleri,20
+170,camasir suyu,temizlik urunleri,15
+171,bulasik deterjani,temizlik urunleri,15
+172,yag cozucu,temizlik urunleri,15
+173,sivi deterjan,temizlik urunleri,15
+174,yuzey temizleyici,temizlik urunleri,15
+175,arap sabunu,temizlik urunleri,10
+176,sampuan,kisisel bakim,20
+177,dus jeli,kisisel bakim,20
+178,sabun,kisisel bakim,5
+179,mat wax,kisisel bakim,15
+180,parlak wax,kisisel bakim,15
+181,argan yagi,kisisel bakim,15
+182,badem yagi,kisisel bakim,15
+183,kulak copu,kisisel bakim,5
+184,zeytin yagi,yaglar,25
+185,aycicek yagi,yaglar,15
+186,misir yagi,yaglar,15
+187,tutku,biskuvi,3
+188,oreo,biskuvi,5
+189,negro,biskuvi,2
+190,benimo,biskuvi,2
+191,burcak,biskuvi,3
+192,saklikoy,biskuvi,3
+193,probis,biskuvi,2
+194,cokoprens,biskuvi,2
+195,halley,biskuvi,2
+196,ikram,biskuvi,2
+197,biskrem,biskuvi,2
+198,luppo,biskuvi,4
+199,eti cin,biskuvi,2
+200,form,biskuvi,2

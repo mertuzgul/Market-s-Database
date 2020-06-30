@@ -1,0 +1,111 @@
+1;2;3;4
+
+Main Page:
+
+Button A 	Button B 	Button C
+
+
+
+B) 
+Page B:
+
+Product  	Salesman  	Choose Salesman 	Invoice
+
+
+
+ProductPage
+
+ProductName		Sales
+Eggs			278
+Bread			123
+Yumurta			121
+.
+.
+.
+
+SalesmanPage
+
+Salesman			Sales
+Mustafa Akýn		278
+Ayþe Yýlmaz			123
+Hasan Uður			121
+.
+.
+.
+
+
+ChooseSalesmanPage
+Slect Salesman
+Select => Mustafa Akýn
+Click Submit
+
+ChooseSalesmanPage2
+
+Products Sold by Mustafa Akýn
+
+ProductName, CustomerName, Price,   Date
+Eggs 		 Ayþe Aslan		12 		23-11-2019
+.
+.
+
+InvoicePage
+Select Customer
+Select => Ayþe Aslan
+Click Submit
+
+ChooseSalesmanPage2
+
+Products Sold by Mustafa Akýn
+
+ProductName , Price,   Date
+Eggs 		   12 		23-11-2019
+.
+.
+Total		   2345 TL
+
+
+A)
+
+PageA
+Select => Istanbul
+Click Submit
+
+PageA2
+A101 	7
+Þok		11
+Berka	19
+BIM		0
+
+Hint:
+City <-> Market
+Market <-> Salesman
+Saleman <-> Sales
+
+
+C)
+
+PageC
+Districts:
+Marmara		189
+Ege			278
+.
+.
+.
+
+Hint:
+District <-> City
+City <-> Market
+Market <-> Salesman
+Saleman <-> Sales
+
+Market:
+A101		185
+Þok			290
+Berka		517
+.
+.
+.
+
+Hint:
+Market <-> Salesman
+Saleman <-> Sales
